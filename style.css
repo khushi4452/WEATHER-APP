@@ -57,8 +57,23 @@
     width:16px
 }
 
-.Weather-icon {
-    height: 150px;
-    width:150px;
-
+.weather-icon {
+    width: 170px;
+    margin-top: 30px;
 }
+
+.weather h1 {
+    font-size: 80px;
+    font-weight:500px ;
+}
+
+
+.weather h2 {
+    font-size: 45px;
+    font-weight:400px ;
+    margin-top: -10px;
+    
+}
+
+
+
